@@ -1,0 +1,4 @@
+.MuiDialog-paperFullScreen {
+    margin: 40px !important;
+    max-height: calc(100vh - 80px) !important;
+}

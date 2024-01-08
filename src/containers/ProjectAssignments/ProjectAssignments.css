@@ -1,0 +1,24 @@
+.ProjectAssignments .ProjectFilter {
+    margin-bottom: 20px;
+}
+.ProjectAssignments .tooltip {
+    cursor: pointer;
+}
+.ProjectAssignments .tooltip .MuiSvgIcon-root {
+    font-size: 15px;
+    margin-right: 10px;
+    color: #00c080d1;
+}
+.ProjectAssignments .ProjectFilter + button {
+    float: right;
+}
+.ProjectAssignments .table-actions {
+    display: flex;
+    flex-direction: row-reverse;
+}
+.assignment-form-wrapper:first-child h5 {
+    margin-bottom: 20px;
+}
+.assignment-form-wrapper:not(:first-child) h5 {
+    margin: 20px 0;
+}

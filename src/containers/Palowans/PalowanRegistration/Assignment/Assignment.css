@@ -1,0 +1,32 @@
+.profile-table thead > th {
+  background-color: #EAECF4;
+}
+
+.profile-table-container > h6 {
+  margin-top: 32px;
+  margin-bottom: 16px;
+}
+
+.profile-table-container > Button {
+  margin-top: 32px;
+}
+
+.space-container-1 {
+  margin-bottom: 36px;
+}
+
+.space-container-2 {
+  margin-bottom: 32px;
+  margin-top: 10px;
+}
+
+.profiles-dialog {
+  max-width: 349px;
+  text-align: center;
+}
+
+.actions-container {
+  display: flex !important;
+  justify-content: center !important;
+  margin: 15px;
+}

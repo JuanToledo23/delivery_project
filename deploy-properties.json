@@ -1,0 +1,7 @@
+{
+  "DEPLOY_TYPE": "CLOUDFRONT",
+  "CREDENTIALS_ID": "aws-cli-credentials-id",
+  "AWS_REGION": "us-east-2",
+  "BUCKET_PATH": "s3://paloit-delivery/",
+  "INDEX_FILE": "index.html"
+}

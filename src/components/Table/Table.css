@@ -1,0 +1,25 @@
+.Table .placeholder {
+    padding: 20px;
+    min-height: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.Table .placeholder svg {
+    color: #e7e7e7;
+    font-size: 100px;
+    margin: auto;
+    display: table;
+    margin-bottom: 10px;
+
+}
+.Table .placeholder .MuiTypography-root {
+    color: #b5b5b5;
+    margin: auto;
+    display: table;
+}
+
+.Table .cell-updated {
+    background-color: #fff0b7;
+}

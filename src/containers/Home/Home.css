@@ -1,0 +1,31 @@
+.home-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 80vh;
+}
+
+.home-container > .projects, .palowans {
+  width: 200px;
+  height: 80px;
+  border: solid 3px #0d9e7a;
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 20px;
+  cursor: pointer;
+}
+
+.home-container > .projects:hover, .palowans:hover {
+  background-color: #128065;
+}
+
+.decorative-banner {
+  width: 100%;
+  height: 160px;
+  background-color: #0d9e7a;
+  background-image: url('assets/img/banner.svg');
+  position: absolute;
+  bottom: 0;
+}

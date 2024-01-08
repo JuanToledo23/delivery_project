@@ -1,0 +1,189 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CountrySelector should match snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="countries-container"
+    data-testid="CountrySelector"
+  >
+    <div
+      class="radio-container"
+      id="rad_1"
+    >
+      <div
+        class="flag-container"
+      >
+        <img
+          alt="México"
+          src="/flags/mexico.svg"
+        />
+        <span
+          class="body1"
+          data-testid="list-countries"
+        >
+          México
+        </span>
+      </div>
+      <span
+        class="MuiButtonBase-root MuiRadio-root MuiRadio-colorPrimary PrivateSwitchBase-root MuiRadio-root MuiRadio-colorPrimary Mui-checked MuiRadio-root MuiRadio-colorPrimary radio css-vqmohf-MuiButtonBase-root-MuiRadio-root"
+        data-testid="radio-test"
+      >
+        <input
+          aria-label="México"
+          checked=""
+          class="PrivateSwitchBase-input css-1m9pwf3"
+          type="radio"
+          value="1"
+        />
+        <span
+          class="css-hyxlzm"
+        >
+          <svg
+            aria-hidden="true"
+            class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1hbvpl3-MuiSvgIcon-root"
+            data-testid="RadioButtonUncheckedIcon"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"
+            />
+          </svg>
+          <svg
+            aria-hidden="true"
+            class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-11zohuh-MuiSvgIcon-root"
+            data-testid="RadioButtonCheckedIcon"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M8.465 8.465C9.37 7.56 10.62 7 12 7C14.76 7 17 9.24 17 12C17 13.38 16.44 14.63 15.535 15.535C14.63 16.44 13.38 17 12 17C9.24 17 7 14.76 7 12C7 10.62 7.56 9.37 8.465 8.465Z"
+            />
+          </svg>
+        </span>
+        <span
+          class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+        />
+      </span>
+    </div>
+    <div
+      class="radio-container"
+      id="rad_2"
+    >
+      <div
+        class="flag-container"
+      >
+        <img
+          alt="Colombia"
+          src="/flags/colombia.svg"
+        />
+        <span
+          class="body1"
+          data-testid="list-countries"
+        >
+          Colombia
+        </span>
+      </div>
+      <span
+        class="MuiButtonBase-root MuiRadio-root MuiRadio-colorPrimary PrivateSwitchBase-root MuiRadio-root MuiRadio-colorPrimary MuiRadio-root MuiRadio-colorPrimary radio css-vqmohf-MuiButtonBase-root-MuiRadio-root"
+        data-testid="radio-test"
+      >
+        <input
+          aria-label="Colombia"
+          class="PrivateSwitchBase-input css-1m9pwf3"
+          type="radio"
+          value="2"
+        />
+        <span
+          class="css-hyxlzm"
+        >
+          <svg
+            aria-hidden="true"
+            class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1hbvpl3-MuiSvgIcon-root"
+            data-testid="RadioButtonUncheckedIcon"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"
+            />
+          </svg>
+          <svg
+            aria-hidden="true"
+            class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1hhw7if-MuiSvgIcon-root"
+            data-testid="RadioButtonCheckedIcon"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M8.465 8.465C9.37 7.56 10.62 7 12 7C14.76 7 17 9.24 17 12C17 13.38 16.44 14.63 15.535 15.535C14.63 16.44 13.38 17 12 17C9.24 17 7 14.76 7 12C7 10.62 7.56 9.37 8.465 8.465Z"
+            />
+          </svg>
+        </span>
+        <span
+          class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+        />
+      </span>
+    </div>
+    <div
+      class="radio-container"
+      id="rad_3"
+    >
+      <div
+        class="flag-container"
+      >
+        <img
+          alt="USA"
+          src="/flags/usa.svg"
+        />
+        <span
+          class="body1"
+          data-testid="list-countries"
+        >
+          USA
+        </span>
+      </div>
+      <span
+        class="MuiButtonBase-root MuiRadio-root MuiRadio-colorPrimary PrivateSwitchBase-root MuiRadio-root MuiRadio-colorPrimary MuiRadio-root MuiRadio-colorPrimary radio css-vqmohf-MuiButtonBase-root-MuiRadio-root"
+        data-testid="radio-test"
+      >
+        <input
+          aria-label="USA"
+          class="PrivateSwitchBase-input css-1m9pwf3"
+          type="radio"
+          value="3"
+        />
+        <span
+          class="css-hyxlzm"
+        >
+          <svg
+            aria-hidden="true"
+            class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1hbvpl3-MuiSvgIcon-root"
+            data-testid="RadioButtonUncheckedIcon"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"
+            />
+          </svg>
+          <svg
+            aria-hidden="true"
+            class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1hhw7if-MuiSvgIcon-root"
+            data-testid="RadioButtonCheckedIcon"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M8.465 8.465C9.37 7.56 10.62 7 12 7C14.76 7 17 9.24 17 12C17 13.38 16.44 14.63 15.535 15.535C14.63 16.44 13.38 17 12 17C9.24 17 7 14.76 7 12C7 10.62 7.56 9.37 8.465 8.465Z"
+            />
+          </svg>
+        </span>
+        <span
+          class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+        />
+      </span>
+    </div>
+  </div>
+</DocumentFragment>
+`;

@@ -1,0 +1,29 @@
+.space-span-sub {
+  margin-bottom: 30px;
+}
+
+.tab-space {
+  margin-top: 44px;
+}
+
+.add-comment-dialog-content {
+  max-width: 846px;
+  width: 546px;
+}
+
+.add-comment-actions-container {
+  display: flex !important;
+  justify-content: flex-end !important;
+  margin: 15px;
+}
+
+.profiles-dialog {
+  max-width: 349px;
+  text-align: center;
+}
+
+.buttons-container {
+  width: 100%;
+  display: flex;
+  justify-content: flex-end;
+}

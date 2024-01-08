@@ -1,0 +1,56 @@
+.grid-space {
+  margin-top: 10px !important;
+}
+
+.btn-consulta {
+  height: 100%;
+  width: 100%;
+}
+
+.space {
+  margin-bottom: 25px;
+}
+
+.space-container-1 {
+  margin-bottom: 36px;
+}
+
+.profile-table thead > th {
+  background-color: #EAECF4;
+}
+
+.profile-table-container > h6 {
+  margin-top: 32px;
+  margin-bottom: 16px;
+}
+
+.profile-table-container > Button {
+  margin-top: 32px;
+}
+
+.url-input {
+  cursor: pointer;
+  color: rgba(0, 0, 0, 0.38);
+  border: solid 1px rgba(0, 0, 0, 0.38);
+  border-radius: 5px;
+  padding: 14px;
+  position: relative;
+}
+
+.title-box {
+  font-family: Montserrat;
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 1.4375em;
+  position: absolute;
+  top: -12px;
+  left: 9px;
+  background: white;
+  padding: 0 4px;
+}
+
+.over-text {
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}

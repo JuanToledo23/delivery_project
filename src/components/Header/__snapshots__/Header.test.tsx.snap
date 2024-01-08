@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Header should match snapshot 1`] = `
+<DocumentFragment>
+  <header
+    class="header"
+  >
+    <div
+      class="title-container"
+    >
+      <div
+        class="decorative-bar"
+      />
+      <a
+        class="homelogo"
+        href="/home"
+      >
+        <img
+          alt="PALO IT Logo"
+          data-testid="go_home"
+          src="PALOIT.svg"
+        />
+      </a>
+    </div>
+  </header>
+</DocumentFragment>
+`;

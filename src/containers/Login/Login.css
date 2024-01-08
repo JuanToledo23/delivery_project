@@ -1,0 +1,57 @@
+.decorative-banner {
+  width: 100%;
+  height: 160px;
+  background-color: #0d9e7a;
+  background-image: url('assets/img/banner.svg');
+  position: absolute;
+  bottom: 0;
+}
+
+.container-center {
+  position: absolute;
+  top: 30%;
+  text-align: center;
+  width: 100%;
+}
+
+.microsoft-login {
+  background: #2F2F2F !important;
+  color: white !important;
+  text-transform: none !important;
+  height: 41px !important;
+  padding-right: 15px !important;
+}
+
+.microsoft-logo {
+  margin: 11px 5px 11px 12px;
+}
+
+mgt-login.login-button {
+  background: #2F2F2F !important;
+  color: white !important;
+  text-transform: none !important;
+  height: 41px !important;
+  padding-right: 15px !important;
+}
+
+mgt-login {
+  --font-size: 14px;
+  --font-weight: 600;
+  --weith: '100%';
+  --height: '100%';
+  --margin: 0;
+  --padding: 12px 20px;
+  --button-color: #201f1e;
+  --button-color--hover: var(--theme-primary-color);
+  --button-background-color: transparent;
+  --button-background-color--hover: #edebe9;
+  --popup-background-color: white;
+  --popup-command-font-size: 12px;
+  --popup-color: #201f1e;
+}
+
+:host .login-button {
+  color: #ffffff !important;
+  background-color: black !important;
+  border-radius: 6px;
+}

@@ -1,0 +1,29 @@
+.grid-space {
+  margin-top: 10px !important;
+}
+
+.btn-consulta {
+  height: 100%;
+  width: 100%;
+}
+
+.space {
+  margin-bottom: 25px;
+}
+
+.space-container-1 {
+  margin-bottom: 36px;
+}
+
+.profile-table thead > th {
+  background-color: #EAECF4;
+}
+
+.profile-table-container > h6 {
+  margin-top: 32px;
+  margin-bottom: 16px;
+}
+
+.profile-table-container > Button {
+  margin-top: 32px;
+}
